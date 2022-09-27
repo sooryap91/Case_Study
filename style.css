@@ -1,16 +1,13 @@
-.box1 h2{
-    color:black;
-    font-size: 30px;
+.my_login h2 {
+    text-align: center;
 }
-.box1 #email,#password{
-    width: 300px;
-}
-.box1 {
-    width: 20%;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-font-size: 23px;
-color: blue;
+.my_login {
+    padding: 20px;
+    width: 425px;
+    /* margin-left: 290px; */
+    margin: 20px;
 }
 .full{
-    background-color: aqua;
+    margin-left: 490px; 
+
 }
