@@ -29,6 +29,7 @@ function checkbox(obj){
         document.getElementById("list").innerHTML=table;
         }
     }
+    // using promise to check whether the count is 5
     function check(){
         var check=document.getElementsByName("check");
         var i=0;

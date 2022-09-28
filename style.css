@@ -1,3 +1,4 @@
+/* login page starts*/
 .my_login h2 {
     text-align: center;
 }
@@ -11,6 +12,8 @@
 .full{
     margin-left: 490px; 
 }
+/* login page ends */
+/* todolist page starts */
 .mainpage #login,#todo{
     color: brown;
     font-size:xx-large;
@@ -34,3 +37,4 @@ border: none;
     padding-left: 10em;
     outline: none;
 }
+/* todolist page ends */
