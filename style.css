@@ -22,3 +22,21 @@
     padding-left: 12em;
 
 }
+.mainpage #demo{
+color: brown;
+padding-left: 20em;
+border: none;
+background-color: transparent;
+font-size: 30px;
+}
+.mainpage #list{
+    color: blue;
+    padding-left: 10em;
+    outline: none;
+    border: none;
+}
+.mainpage #list:link{
+    
+    outline: none;
+    border: none;
+}
